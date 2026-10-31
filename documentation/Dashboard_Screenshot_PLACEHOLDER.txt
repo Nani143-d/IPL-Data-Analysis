@@ -1,0 +1,1 @@
+After building the actual dashboard in Power BI Desktop, save a screenshot as Dashboard_Screenshot.png in this folder.
